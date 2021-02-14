@@ -1763,7 +1763,6 @@ p {
 .single_ads_card .ads_card_image {
   position: relative;
   overflow: hidden;
-  height: 355px;
 }
 .single_ads_card .ads_card_image .sticker {
   font-size: 12px;
