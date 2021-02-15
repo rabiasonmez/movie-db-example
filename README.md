@@ -4,8 +4,7 @@ This is a Movie App built in [ReactJS](http://facebook.github.io/react/index.htm
 It uses open [The Movie Database (TMDb) API] (https://www.themoviedb.org/documentation/api) to display data.
 
 
-## Live Demo
-[TMDb Movie App] (https://namkwon.github.io/reactdemo/)
+
 
 ## Features
 
