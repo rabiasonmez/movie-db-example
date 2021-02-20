@@ -17,5 +17,4 @@ It uses open [The Movie Database (TMDb) API] (https://www.themoviedb.org/documen
 
 * Followed [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 * Responsive design using [React-Bootstrap](https://react-bootstrap.github.io/)
-* State management using [React-Redux](https://github.com/reactjs/react-redux)
 * Environment set-up using [Create-React-App](https://github.com/facebookincubator/create-react-app)
